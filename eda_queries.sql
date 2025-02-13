@@ -31,6 +31,11 @@ FROM layoffs_staging2
 GROUP BY country
 ORDER BY total_laid_off DESC;
 
+-- Analyze layoffs based on company stage to understand risk distribution
+SELECT stage, SUM(total_laid_off) AS total_laid_off
+FROM layoffs_staging2
+GROUP BY stage
+ORDER BY total_laid_off DESC;
 
 -- Determine which companies had the highest layoffs each year
 WITH company_year AS (
