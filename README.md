@@ -8,6 +8,9 @@ The goal is to **create a table in MySQL**, clean the data to address missing va
 
 **💡 Dataset and project files are available in this repository.**
 
+🔗 **Full Project Report on Notion:**  
+[SQL Data Cleaning & EDA – Layoffs Dataset](https://rounded-authority-5e3.notion.site/SQL-Data-Cleaning-Exploratory-Analysis-Layoffs-Dataset-10fe124aeb7981c380b1d713b576cb9b?pvs=74)
+
 ---
 
 ## 📊 **Dataset Structure**
@@ -80,20 +83,4 @@ cd MySQL-Layoff-Project
 
 - **MySQL**: Database and SQL queries.
 - **Power BI** *(Optional)*: Visualizations and dashboards.
-
----
-
-## 🤝 **Contributing**
-
-Feel free to **fork this repository** and submit a pull request with improvements or additional insights!
-
----
-
-## 📩 **Contact**
-
-💡 **Additional Documentation:** [Notion Project Page](#)
-
-If you have any questions, feel free to reach out via GitHub.
-
-🚀 **Happy Coding!**
 
