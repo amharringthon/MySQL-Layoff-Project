@@ -82,5 +82,4 @@ cd MySQL-Layoff-Project
 ## 🛠️ **Technologies Used**
 
 - **MySQL**: Database and SQL queries.
-- **Power BI** *(Optional)*: Visualizations and dashboards.
 
